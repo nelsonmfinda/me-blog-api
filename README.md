@@ -19,7 +19,7 @@ This is an blog Rest API side project using [JSON API](https://jsonapi.org/) spe
 ```sh
     gem install bundler
 ```
-> Install project dependencies
+Install project dependencies
   
 ```sh
   bundler install
