@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.com/nelsonmfinda/me-blog-api.svg?branch=master)](https://travis-ci.com/nelsonmfinda/me-blog-api)
 [![Maintainability](https://api.codeclimate.com/v1/badges/9baf1f0c3f77a85329d9/maintainability)](https://codeclimate.com/github/nelsonmfinda/me-blog-api/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/9baf1f0c3f77a85329d9/test_coverage)](https://codeclimate.com/github/nelsonmfinda/me-blog-api/test_coverage)
+[![Inline docs](http://inch-ci.org/github/nelsonmfinda/me-blog-api.png)](http://inch-ci.org/github/nelsonmfinda/me-blog-api)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/nelsonmfinda/me-blog-api)
 
