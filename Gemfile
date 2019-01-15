@@ -37,6 +37,8 @@ group :development, :test do
   gem 'factory_bot_rails'
   # A Ruby static code analyzer and formatter
   gem 'rubocop', '~> 0.62.0', require: false
+  # Code coverage for Ruby
+  gem 'simplecov', require: false
 end
 
 group :development do
