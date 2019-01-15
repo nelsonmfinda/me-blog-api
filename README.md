@@ -1,6 +1,6 @@
 # Me Blog API
 
-[![Build Status](https://travis-ci.org/nelsonmfinda/me-blog-api.svg?branch=master)](https://travis-ci.org/nelsonmfinda/me-blog-api)
+[![Build Status](https://travis-ci.com/nelsonmfinda/me-blog-api.svg?branch=master)](https://travis-ci.com/nelsonmfinda/me-blog-api)
 [![Maintainability](https://api.codeclimate.com/v1/badges/9baf1f0c3f77a85329d9/maintainability)](https://codeclimate.com/github/nelsonmfinda/me-blog-api/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/9baf1f0c3f77a85329d9/test_coverage)](https://codeclimate.com/github/nelsonmfinda/me-blog-api/test_coverage)
 

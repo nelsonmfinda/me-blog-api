@@ -3,7 +3,7 @@
 
 language: ruby
 rvm:
-  - 2.5.3
+  - 2.5.3p105
 
 # Cache gems
 cache:
@@ -36,3 +36,10 @@ after_script:
   - ./cc-test-reporter format-coverage -t lcov -o coverage/codeclimate.frontend.json coverage/frontend/lcov.info  # Format frontend coverage
   - ./cc-test-reporter sum-coverage coverage/codeclimate.*.json -p 2                  # Sum both coverage parts into coverage/codeclimate.json
   - if [[ "$TRAVIS_TEST_RESULT" == 0 ]]; then ./cc-test-reporter upload-coverage; fi  # Upload coverage/codeclimate.json
+
+before_build:
+  - format-coverage --debug
+  - upload-coverage --debug
+
+after-build:
+  - --debug
