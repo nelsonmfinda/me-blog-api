@@ -35,6 +35,8 @@ group :development, :test do
   gem 'rspec-rails', '~> 3.8'
   # A library for setting up Ruby objects as test data
   gem 'factory_bot_rails'
+  # A Ruby static code analyzer and formatter
+  gem 'rubocop', '~> 0.62.0', require: false
 end
 
 group :development do
